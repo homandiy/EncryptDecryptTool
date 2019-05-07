@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Encrypt Decrypt Tool</string>
+    <string name="title"><![CDATA[Encrypt & Decrypt Tool]]></string>
+    <string name="api_key">API Key:</string>
+    <string name="pass_key">Pass Key:</string>
+    <string name="whoknowsthekey">WhoKnowsTheKey3838</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="this_is_an_api_key">This is an API key!</string>
+    <string name="enter_api_key">Enter API key!</string>
+    <string name="must_have_13_characters">Must have 13 characters.</string>
+</resources>
